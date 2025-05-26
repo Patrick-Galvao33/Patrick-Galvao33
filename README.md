@@ -97,7 +97,7 @@ Meu objetivo é alcançar um alto nível técnico e atuar em projetos desafiador
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-Galvao33&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=a&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
